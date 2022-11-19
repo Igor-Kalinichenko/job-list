@@ -6,7 +6,7 @@ function GetLocationName ({location}) {
     const [country, setCountry] = useState('');
     const [city, setCity] = useState('');
 
-    const ApiKey = process.env.REACT_APP_API_KEY;
+    const ApiKey = 'AIzaSyAymk7LsK6SgX749eYe4PG4SSBzJwfsTdU';
 
     useEffect(() => {
         async function getLocation () {

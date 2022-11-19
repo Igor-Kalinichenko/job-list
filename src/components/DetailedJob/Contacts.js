@@ -4,7 +4,7 @@ import React from 'react';
 import {ReactComponent as LocationIcon} from '../../svg/locationIcon.svg';
 
 function Contacts ({location, name, address, email, phone}) {
-    const ApiKey = process.env.REACT_APP_API_KEY;
+    const ApiKey = 'AIzaSyAymk7LsK6SgX749eYe4PG4SSBzJwfsTdU';
 
     const containerStyle = {
         width: '100%',
