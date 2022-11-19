@@ -1,0 +1,20 @@
+@font-face {
+    font-family: ProximaNova;
+    src: url("./fonts/proximanova_regular.ttf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: ProximaNova;
+    src: url("./fonts/ProximaNova-600.ttf");
+    font-weight: 600;
+}
+@font-face {
+    font-family: ProximaNova;
+    src: url("./fonts/proximanova_bold.otf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: Roboto;
+    src: url("./fonts/Roboto-Regular.ttf");
+    font-weight: 400;
+}
